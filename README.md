@@ -1,8 +1,7 @@
-## Hi there 👋
-- 🔭 I’m currently building and deploying ML pipelines with OCR, NLP and LLM for insurance document analytics automation.
+## Hi there 👋 I am Canxiu Zhang.
+- 🔭 I’m currently building and deploying ML pipelines with OCR, NLP and LLM for insurance document processing automation.
 - 🌱 I’m currently learning UX for AI-driven products.
-- ⚡ Fun fact: I love figure staking and water color painting.
-- 💻 Check out my [website](https://canxiu-zhang.github.io) (working in progress) for more details.
+- ⚡ Fun fact: I love figure staking and watercolour painting.
 
 <!--
 **canxiu-zhang/canxiu-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
