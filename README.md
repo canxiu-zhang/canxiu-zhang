@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Canxiu Zhang.
-- 🔭 I’m currently building and deploying ML pipelines with OCR, NLP and LLM for insurance document processing automation.
+- 🔭 I’m currently building and deploying AI solutions with OCR, NLP and LLM for insurance document processing automation.
 - 🌱 I’m currently learning UX for AI-driven products.
 - ⚡ Fun fact: I love figure staking and watercolour painting.
 
