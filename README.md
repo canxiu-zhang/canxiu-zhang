@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Canxiu Zhang.
 - 🔭 I build and deploy enterprise AI solutions with OCR, NLP and LLM for document processing automation.
-- 🌱 I’m currently learning UX for AI-driven products.
+- 📫 How to reach me: Connect on [Linkedin](https://www.linkedin.com/in/canxiu-z-23a424a9).
 - ⚡ Fun fact: I love figure staking and watercolour painting.
 
 <!--
