@@ -1,4 +1,4 @@
 ## Hi there 👋 I am Canxiu Zhang.
 - 🔭 I design, build and deploy AI solutions.
-- 📫 How to reach me: connect on [Linkedin](https://www.linkedin.com/in/canxiu-z-23a424a9).
+- 📫 How to reach me: connect on [canxiu.z@gmail.com](mailto:canxiu.z@gmail.com).
 - ⚡ Fun fact: I love figure skating and art.
