@@ -1,4 +1,4 @@
 ## Hello, I am Canxiu Zhang 👋
-- 👩🏻‍💻 I design, build and deploy AI solutions.
+- 👩🏻‍💻 I design, build and deploy AI products and platform.
 - 📫 Contact: [canxiu.z@gmail.com](mailto:canxiu.z@gmail.com).
-- 🌟 Hobbies: figure skating, art.
+- 🌟 Hobby: figure skating.
