@@ -1,4 +1,4 @@
 ## Hello, I am Canxiu Zhang 👋
-- 👩🏻‍💻 I design, build and deploy AI products and platform.
+- 👩🏻‍💻 I am an AI platform engineer at Manulife.
 - 📫 Contact: [canxiu.z@gmail.com](mailto:canxiu.z@gmail.com).
 - 🌟 Hobby: figure skating.
